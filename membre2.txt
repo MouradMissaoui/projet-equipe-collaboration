@@ -1,0 +1,3 @@
+Nom : Missaoui Membre2
+Rôle : Développeur
+Responsabilités : Développement et tests du code
